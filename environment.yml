@@ -1,0 +1,11 @@
+name: dqtaubinder
+channels:
+  - conda-forge
+dependencies:
+  - python=3.14
+  - ipywidgets=8.1.8
+  - scipy=1.17.1
+  - numpy=2.4.3
+  - ipympl=0.10.0
+  - matplotlib=3.10.8
+  - ipykernel=7.2.0
